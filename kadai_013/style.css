@@ -117,6 +117,7 @@ PC用のスタイル
   }
 
   #nav-sp > a:hover {
+    color: #ffffff;
     text-decoration: underline;
   }
 
@@ -125,7 +126,7 @@ PC用のスタイル
   }
 
   #nav-sp > .menu {
-    text-decoration: underline;
+    text-decoration: none;
     display: block;
     margin: 0px 20px 0px 20px;
     height: 44px;
